@@ -7,11 +7,11 @@ Bu proje kapsamında, ilçe kırılımında günlük plansız kesinti sayıları
 yarışma: https://www.kaggle.com/competitions/gdz-elektrik-datathon-2024
 
 ## Proje Klasör Yapısı
-
+"""
 GDZ-Elektrik-Datathon-2024/
 ├── data/
 │   ├── raw/                   # Ham veriler\
-│   ├── processed/             # İşlenmiş veriler
+|   ├── processed/             # İşlenmiş veriler
 │   └── README.md              # Veri açıklamaları
 │
 ├── notebooks/
@@ -31,4 +31,4 @@ GDZ-Elektrik-Datathon-2024/
 ├── .gitignore
 ├── README.md
 └── requirements.txt           # Gerekli Python paketleri
-:file_folder:
+"""
