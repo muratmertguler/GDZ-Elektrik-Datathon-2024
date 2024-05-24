@@ -31,3 +31,4 @@ GDZ-Elektrik-Datathon-2024/
 ├── .gitignore
 ├── README.md
 └── requirements.txt           # Gerekli Python paketleri
+:file_folder:
