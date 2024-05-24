@@ -6,7 +6,7 @@ yarışma: https://www.kaggle.com/competitions/gdz-elektrik-datathon-2024
 GDZ-Elektrik-Datathon-2024/
 │
 ├── data/
-│   ├── raw/                   # Ham veriler
+│   ├── raw/                   # Ham veriler\
 │   ├── processed/             # İşlenmiş veriler
 │   └── README.md              # Veri açıklamaları
 │
