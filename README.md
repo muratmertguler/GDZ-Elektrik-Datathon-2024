@@ -9,7 +9,6 @@ yarışma: https://www.kaggle.com/competitions/gdz-elektrik-datathon-2024
 ## Proje Klasör Yapısı
 
 GDZ-Elektrik-Datathon-2024/
-│
 ├── data/
 │   ├── raw/                   # Ham veriler\
 │   ├── processed/             # İşlenmiş veriler
