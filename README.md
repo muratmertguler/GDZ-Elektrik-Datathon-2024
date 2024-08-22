@@ -11,19 +11,12 @@ yarışma: https://www.kaggle.com/competitions/gdz-elektrik-datathon-2024
 ```
 GDZ-Elektrik-Datathon-2024/
 ├── data/
-│   ├── raw/                   # Ham veriler\
-|   └── processed/             # İşlenmiş veriler
-│
+│   ├── raw/                 
+|   └── processed/          
 |
 ├── notebooks/
-│   ├── EDA.ipynb              # Keşifsel veri analizi notebook'u
-│   └── Model_Training.ipynb   # Model eğitim notebook'u
-|
-│
-├── scripts/
-│   ├── data_preprocessing.py  # Veri ön işleme script'i
-│   └── model_training.py      # Model eğitim script'i
-│
+│   ├── EDA.ipynb              
+│   └── Model_Training.ipynb  
 │
 ├── .gitignore
 ├── README.md
